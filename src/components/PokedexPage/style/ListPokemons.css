@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5em;
+    padding-bottom: 5em;
+    width: 100%;
+}
+.footer__list{
+    width: 100%;
+    min-width: 10px;
+}
+@media (min-width: 700px) {
+    .container{
+        min-width: 1800px;
+    }
+}

@@ -1,0 +1,14 @@
+.pagination-link,
+.pagination-previous,
+.pagination-next {
+    color: black;
+    background-color: white;
+    width: auto;
+}
+.footer{
+    padding: 0;
+}
+.pagination-link.is-current {
+    background-color: rgba(217, 63, 63, 1);
+    border:rgba(217, 63, 63, 1);
+}

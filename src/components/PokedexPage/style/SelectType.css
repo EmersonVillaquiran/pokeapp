@@ -1,0 +1,8 @@
+.select{
+    width: 100%;
+    max-width: 270px;
+    font-size: 1.1em;
+    border: none;
+    box-shadow: 0.3em 0.3em 0.5em rgba(178, 33, 20, 0.572);
+    padding: 0.4em;
+}
