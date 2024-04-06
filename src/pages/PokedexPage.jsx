@@ -39,7 +39,6 @@ const PokedexPage = () => {
     return poke.name.includes(pokeSearch)
   })
 
-  
 
   return (
     <div className="header">
