@@ -8,7 +8,7 @@
 .header__div{
     background-image: url(/public/header.png);
     width: 100%;
-    max-width: 1700px;
+    min-width: 1200px;
     height: 200px;
 }
 .header__title{
